@@ -2,14 +2,19 @@
 
 An offline learning dashboard built with Java Swing and FlatLaf.
 
-I made this at 17 to strengthen my Java skills and use it as a project in my university applications. WORK IN PROGRESS
+I'm 17 and currently building this as part of my university applications. It's a personal project to help me learn Java by doing something practical. The idea is to create a clean, distraction-free app where students can study, read, and reflect offline.
 
-## Features
-- 📘 Home screen with emoji buttons (Study, Focus, Journal, etc.)
-- 🧭 Sidebar with logo and settings
+## Features (so far)
+- 📘 Home screen with sections like Study, Focus, Journal, etc.
+- 🧭 Sidebar with logo and settings button
 - 🎨 FlatLaf-based modern UI
-- 🔄 Simple screen navigation
-- 📚 Preparing to support offline PDF viewing
+- 🔄 CardLayout screen switching
+
+## In Progress
+- 📚 PDF reading support
+- ⚙️ Settings panel
+- 🗂 Subject structure and file loading
+- ✏️ UI polish and animations
 
 ## Tech
 - Java 21
@@ -19,8 +24,12 @@ I made this at 17 to strengthen my Java skills and use it as a project in my uni
 
 ## How to Run
 - Clone this repo
-- Open in IntelliJ or any Java IDE
+- Open in IntelliJ (or any Java IDE)
 - Run `App.java` from the `src` folder
+
+## Feedback Welcome 🙏
+I'm still working on this and learning as I go.  
+**Any advice, feedback, or help is genuinely appreciated.**
 
 ## License
 MIT
